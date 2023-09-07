@@ -1,0 +1,1 @@
+# digitaador_automata
