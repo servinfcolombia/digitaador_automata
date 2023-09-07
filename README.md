@@ -1,1 +1,1 @@
-# digitaador_automata
+# digitador_automata
